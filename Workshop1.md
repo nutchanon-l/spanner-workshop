@@ -14,7 +14,7 @@
 6. Leave "1" node as a default value.
 7. Click "CREATE"
 
-## Lab 1.2: Walkthrough the Spanne console
+## Lab 1.2: Walkthrough the Spanner console
 1. See the middle layer for the configuration
     - Instance ID, Edition, Region, Auto scaling
     - Instance summary
@@ -23,7 +23,7 @@
     - Overview, Export/Import, Backup/Restore, Partitions
     - System Insights, Query Insights, Lock Insights, Transaction Insights, Hotspot Insights
 
-## Lab 1.3: Create a Spaner Database
+## Lab 1.3: Create a Spanner Database
 1. Click "CREATE DATABASE"
 2. Put "workshopdb" as a name
 3. Select "Google Standard SQL" as the dailect for this database.
